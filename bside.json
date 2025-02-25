@@ -1,0 +1,15 @@
+{
+	"id": "bside",
+	"name": "B-Side",
+	"display_name": "B-Side",
+	"author": [ "Afterlight" ],
+	"description": "A custom music replacement mod that aims to capture a similar vibe to the original soundtrack.",
+	"prefix": "bside",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "5E2521",
+	"badge_text_colour": "E3E3E3",
+	"version": "0.0.1",
+	"dependencies": [
+	]
+}
